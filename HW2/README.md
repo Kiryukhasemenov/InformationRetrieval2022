@@ -20,7 +20,7 @@ To run the ablations, use the parameters:
 4. `-query_construction`: Query Construction mode: out of {default, enhanced} values;
 5. `-query_expansion`: Query Expansion mode: out of {default, Bo1} values.
 
-The detailed description of the values is represented in the [report](report.pdf). 
+The detailed description of the values is represented in the [report](Kirill_Semenov_hw2_report.pdf). 
 
 The configurations of the runs 0, 1 and 2 are the following:
 
